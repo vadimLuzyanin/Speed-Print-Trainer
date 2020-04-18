@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Speed-Print-Trainer/static/js/main.fdd1470b.chunk.js",
+    "main.js.map": "/Speed-Print-Trainer/static/js/main.fdd1470b.chunk.js.map",
+    "runtime-main.js": "/Speed-Print-Trainer/static/js/runtime-main.cbd76a92.js",
+    "runtime-main.js.map": "/Speed-Print-Trainer/static/js/runtime-main.cbd76a92.js.map",
+    "static/js/2.160ca7b8.chunk.js": "/Speed-Print-Trainer/static/js/2.160ca7b8.chunk.js",
+    "static/js/2.160ca7b8.chunk.js.map": "/Speed-Print-Trainer/static/js/2.160ca7b8.chunk.js.map",
+    "index.html": "/Speed-Print-Trainer/index.html",
+    "precache-manifest.4ae28142f04c8c629943493fac30b2c4.js": "/Speed-Print-Trainer/precache-manifest.4ae28142f04c8c629943493fac30b2c4.js",
+    "service-worker.js": "/Speed-Print-Trainer/service-worker.js",
+    "static/js/2.160ca7b8.chunk.js.LICENSE.txt": "/Speed-Print-Trainer/static/js/2.160ca7b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd76a92.js",
+    "static/js/2.160ca7b8.chunk.js",
+    "static/js/main.fdd1470b.chunk.js"
+  ]
+}
